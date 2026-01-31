@@ -1,0 +1,6 @@
+Item_ID,Product_Name,Stock_Level,Unit_Price
+101,Laptop,15,1200
+102,Mouse,,25
+103,Keyboard,20,
+104,Monitor,8,300
+105,,5,150

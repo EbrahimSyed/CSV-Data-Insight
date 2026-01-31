@@ -1,0 +1,13 @@
+Job_Title,Experience_Level,Salary_USD,Remote_Ratio,Company_Location
+Data Scientist,Senior,150000,100,US
+Data Analyst,Junior,65000,50,UK
+Machine Learning Engineer,Intermediate,120000,100,DE
+Data Scientist,Junior,85000,0,US
+Software Engineer,Senior,180000,100,US
+Data Analyst,Senior,110000,100,CA
+AI Researcher,Senior,200000,0,JP
+Data Engineer,Intermediate,95000,50,UK
+Machine Learning Engineer,Senior,165000,100,US
+Data Scientist,Intermediate,105000,50,FR
+Software Engineer,Junior,75000,100,IN
+Data Engineer,Senior,140000,0,US
